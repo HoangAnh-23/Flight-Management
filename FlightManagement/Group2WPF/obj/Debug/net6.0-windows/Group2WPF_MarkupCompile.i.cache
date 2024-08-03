@@ -1,0 +1,20 @@
+﻿Group2WPF
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\Group2WPF\obj\Debug\net6.0-windows\
+Group2WPF
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\Group2WPF\App.xaml
+111064391942
+
+15-873090342
+222567559374
+AirlineWindow.xaml;AirportWindow.xaml;BaggageWindow.xaml;BookingPLatformWindow.xaml;BookingWindow.xaml;FlightWindow.xaml;LoginWindow.xaml;MainWindow.xaml;PassengerWindow.xaml;RegisterWindow.xaml;StatisticalWindow.xaml;
+
+True
+

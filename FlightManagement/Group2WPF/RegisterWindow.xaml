@@ -1,0 +1,45 @@
+﻿<Window x:Class="Group2WPF.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Group2WPF"
+        mc:Ignorable="d"
+        Title="RegisterWindow" Height="600" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid Background="#f0f0f0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" MinHeight="54"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Register" FontSize="24" FontWeight="Bold" Foreground="#333" HorizontalAlignment="Center" VerticalAlignment="Center" Height="32" Width="auto"/>
+
+        <StackPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" Width="250">
+            <TextBlock Text="Email:" FontSize="14" Foreground="#333" Margin="0,5,0,0"/>
+            <TextBox x:Name="txtEmail" Height="30" Padding="5" Background="#fff" BorderBrush="#ccc" BorderThickness="1" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Password:" FontSize="14" Foreground="#333" Margin="0,0,0,5"/>
+            <PasswordBox x:Name="txtPassword" Height="30" Padding="5" Background="#fff" BorderBrush="#ccc" BorderThickness="1" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Role:" FontSize="14" Foreground="#333" Margin="0,0,0,5"/>
+            <TextBox x:Name="txtRole" Height="30" Padding="5" Background="#fff" BorderBrush="#ccc" BorderThickness="1" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Name:" FontSize="14" Foreground="#333" Margin="0,0,0,5"/>
+            <TextBox x:Name="txtName" Height="30" Padding="5" Background="#fff" BorderBrush="#ccc" BorderThickness="1" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Date of Birth:" FontSize="14" Foreground="#333" Margin="0,0,0,5"/>
+            <DatePicker x:Name="dpDOb" Height="30" Background="#fff" BorderBrush="#ccc" BorderThickness="1" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Phone:" FontSize="14" Foreground="#333" Margin="0,0,0,5"/>
+            <TextBox x:Name="txtPhone" Height="30" Padding="5" Background="#fff" BorderBrush="#ccc" BorderThickness="1" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Address:" FontSize="14" Foreground="#333" Margin="0,0,0,5"/>
+            <TextBox x:Name="txtAddress" Height="30" Padding="5" Background="#fff" BorderBrush="#ccc" BorderThickness="1" Margin="0,0,0,10"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="btnRegister" Content="Register" Click="RegisterButton_Click" Background="#007acc" Foreground="#fff" Padding="10,5" BorderBrush="#007acc" BorderThickness="1" FontSize="16" Margin="0,20,0,0" HorizontalAlignment="Center" Width="100"/>
+                <TextBlock Text="Login" Foreground="#007acc" FontSize="14" VerticalAlignment="Center" Margin="0,20,0,0" Cursor="Hand"  Padding="10,5" MouseLeftButtonDown="LoginTextBlock_MouseLeftButtonDown"/>
+            </StackPanel>
+            <TextBlock x:Name="txtErrorMessage" Text="" Foreground="Red" FontSize="12" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

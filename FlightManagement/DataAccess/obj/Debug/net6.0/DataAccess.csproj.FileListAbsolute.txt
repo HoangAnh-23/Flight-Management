@@ -1,0 +1,46 @@
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\PRN212\Group_Project\Group2_SE1810_Project\DataAccess\bin\Debug\net6.0\appsettings.json
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\bin\Debug\net6.0\appsettings.json
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.sourcelink.json
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\bin\Debug\net6.0\appsettings.json
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

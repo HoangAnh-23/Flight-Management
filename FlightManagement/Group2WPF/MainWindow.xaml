@@ -1,0 +1,20 @@
+﻿<Window x:Class="Group2WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Group2WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800" WindowStartupLocation="CenterScreen">
+
+    <StackPanel Background="#f0f0f0" VerticalAlignment="Center">
+        <Button x:Name="btnOpenAirlineWindow" Content="Airline Window" Click="OpenAirlineWindow_Click"/>
+        <Button x:Name="btnOpenAirportWindow" Content="Airport Window" Click="OpenAirportWindow_Click"/>
+        <Button x:Name="btnOpenPassengerWindow" Content="Passenger Window" Click="OpenPassengerWindow_Click"/>
+        <Button x:Name="btnOpenBookingWindow" Content="Booking Window" Click="OpenBookingWindow_Click"/>
+        <Button x:Name="btnOpenBookingPlatformWindow" Content="BookingPlatform Window" Click="OpenBookingPlatformWindow_Click"/>
+        <Button x:Name="btnOpenFlightWindow" Content="Flight Window" Click="OpenFlightWindow_Click"/>
+        <Button x:Name="btnOpenBaggageWindow" Content="Baggage Window" Click="OpenBaggageWindow_Click"/>
+        <Button x:Name="btnLogout" Content="Logout" Click="Logout_Click" Style="{StaticResource NavButtonStyle}"/>
+    </StackPanel>
+</Window>

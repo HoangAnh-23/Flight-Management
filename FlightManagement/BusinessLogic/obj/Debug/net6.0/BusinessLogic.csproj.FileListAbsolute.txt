@@ -1,0 +1,49 @@
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\bin\Debug\net6.0\appsettings.json
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\bin\Debug\net6.0\DataAccess.dll
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\bin\Debug\net6.0\DataAccess.pdb
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+D:\PRN212\Group_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\bin\Debug\net6.0\appsettings.json
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.sourcelink.json
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\Business.CF5D6E35.Up2Date
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\Zeny PC\Downloads\Group2_SE1810_Project\Group2_SE1810_Project\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\bin\Debug\net6.0\appsettings.json
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\obj\Debug\net6.0\Business.CF5D6E35.Up2Date
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\Zeny PC\Desktop\1_PRN212\1_PRN212\Codes\FlightManagement\FlightManagement\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
